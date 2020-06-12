@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
         - name: app1
-          image: harshal0812/nginx-app1
+          image: testdockerramesh/nginx-app1
