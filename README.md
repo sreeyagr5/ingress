@@ -1,5 +1,5 @@
 # kubernetes-ingress
-## Demo regarding kubernetes Ingress with Nginx ingress controller
+## kubernetes Ingress with Nginx ingress controller
 
 This demo shows how to install Nginx ingress controller and managing services using ingress through external DNS 
 There are multiple ways to install the controller, we will focus on deploying the controller as a Deployment with 
